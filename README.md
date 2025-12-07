@@ -63,3 +63,5 @@ Hyperlocal sensors can be placed anywhere, providing detailed indoor environment
 ⭐ Summary Line 
 
 Hyperlocal air-quality monitoring delivers precise, real-time, street-level environmental intelligence that traditional monitoring platforms cannot capture — enabling more accurate decision-making, better health protection, and smarter urban planning.
+
+That was all about my project
