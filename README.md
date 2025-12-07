@@ -57,6 +57,9 @@ No traditional monitoring network offers this level of granularity.
 
 Large monitoring networks mostly measure outdoor pollution, but indoor air can be 2–5× more polluted.
 Hyperlocal sensors can be placed anywhere, providing detailed indoor environmental insights, which other platforms don’t provide.
+
+
+
 ⭐ Summary Line 
 
 Hyperlocal air-quality monitoring delivers precise, real-time, street-level environmental intelligence that traditional monitoring platforms cannot capture — enabling more accurate decision-making, better health protection, and smarter urban planning.
